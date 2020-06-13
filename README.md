@@ -9,7 +9,7 @@ Example Usage:<br/>
 mc Tueska<br/>
 mc d7b560163044422e925cc0258bb8102a
 </p>
-<h2>Required dependencies:</h2>
+<h2>Required modules:</h2>
 <b>requests, json, time, urllib, shutil, pyperclip, os</b>
 <h2>Used APIs:</h2> 
 https://api.mojang.com/ and https://minotar.net/
