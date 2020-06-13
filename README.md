@@ -5,7 +5,7 @@ Using this plugin you're able to convert current Minecraft Names into the corres
 Accepts UUID and current Minecraft Name.<br/>
 The plugin creates/uses cache Folder to store Playerhead for Skindisplay. Size per cached Skin <1 kB
 
-<h2>Requiered dependencies:</h2>
+<h2>Required dependencies:</h2>
 <b>requests, json, time, urllib, shutil, pyperclip, os</b>
 <h2>Used APIs:</h2> 
 https://api.mojang.com/ and https://minotar.net/
