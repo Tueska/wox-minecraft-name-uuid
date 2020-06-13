@@ -1,0 +1,12 @@
+{
+    "ID":"86936e84ad7c11eaa64d0242ac130004",
+    "ActionKeyword":"mc",
+    "Name":"Namehistory & UUID Converter",
+    "Description":"Minecraft Playerhistory & UUID converter",
+    "Author":"Tueska",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/Tueska/wox-minecraft-name-uuid",
+    "IcoPath":"grass_block.png",
+    "ExecuteFileName":"run.py"
+}
